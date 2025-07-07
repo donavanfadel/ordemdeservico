@@ -20,3 +20,9 @@ Aplicação web para registro, acompanhamento e gestão de ordens de serviço, d
 - API RESTful com retorno em JSON
 - Power BI para visualização e análise de dados
 - Bootstrap para responsividade e layout moderno
+
+---
+
+## Visualização Power BI
+
+![Power BI](https://drive.usercontent.google.com/download?id=1B4OhatykVcgUy9I0HaPcsyuZZy1ZZIzm&authuser=0)
